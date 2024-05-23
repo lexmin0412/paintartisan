@@ -1,0 +1,30 @@
+{
+  "name": "paintartisan",
+  "version": "0.0.2",
+  "description": "我是一个粉刷匠，粉刷本领强",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexmin0412/paintartisan.git"
+  },
+  "keywords": [
+    "css",
+    "tailwindcss"
+  ],
+  "author": "lexmin0412 <zhangle_dev@outlook.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexmin0412/paintartisan/issues"
+  },
+  "homepage": "https://github.com/lexmin0412/paintartisan#readme",
+  "peerDependencies": {
+    "tailwindcss": "^3.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
