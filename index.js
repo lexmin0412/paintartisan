@@ -1,3 +1,3 @@
 module.exports = {
-	tailwindPluginEllipsis: require('./tailwind/ellipsis')
+	tailwindPluginEllipsis: require('./tailwind/plugin-ellipsis')
 }
