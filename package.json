@@ -1,6 +1,6 @@
 {
   "name": "paintartisan",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "我是一个粉刷匠，粉刷本领强",
   "main": "index.js",
   "scripts": {
